@@ -1,5 +1,11 @@
 # Corey Leath — Software, Platform & ML Systems Engineering
 
+<!-- portfolio-lifecycle-badges:start -->
+[![Latest release](https://img.shields.io/github/v/release/CoreyLeath-code/Readme.md?display_name=tag&sort=semver)](https://github.com/CoreyLeath-code/Readme.md/releases/latest)
+[![Lifecycle documentation](https://img.shields.io/badge/lifecycle-documented-2563eb)](#ownership-promotion-and-operational-lifecycle)
+[![Maintainer](https://img.shields.io/badge/maintainer-Corey%20Leath-111827)](https://github.com/CoreyLeath-code)
+<!-- portfolio-lifecycle-badges:end -->
+
 [![GitHub](https://img.shields.io/badge/GitHub-CoreyLeath--code-181717?logo=github)](https://github.com/CoreyLeath-code)
 [![Portfolio Evidence](https://img.shields.io/badge/Evidence-snapshot%202026--08--28-2E8B57)](PORTFOLIO_EVIDENCE.md)
 [![Portfolio Release](https://img.shields.io/github/v/release/CoreyLeath-code/Readme.md?display_name=tag&sort=semver)](https://github.com/CoreyLeath-code/Readme.md/releases/latest)
