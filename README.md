@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-CoreyLeath--code-181717?logo=github)](https://github.com/CoreyLeath-code)
 [![Portfolio Evidence](https://img.shields.io/badge/Evidence-snapshot%202026--08--28-2E8B57)](PORTFOLIO_EVIDENCE.md)
-[![Portfolio Release](https://img.shields.io/github/v/release/CoreyLeath-code/Readme.md?display_name=tag&sort=semver)](https://github.com/CoreyLeath-code/Readme.md/releases/latest)
 [![Focus](https://img.shields.io/badge/Focus-Platform%20%7C%20ML%20Systems%20%7C%20Distributed%20Systems-6A5ACD)](#role-oriented-review-paths)
 
 I am a Software Development student building **verifiable software systems** across platform/reliability engineering, backend and distributed systems, ML infrastructure, data engineering, and quantitative research.
@@ -16,6 +15,17 @@ I am a Software Development student building **verifiable software systems** acr
 The portfolio is intentionally evidence-first: a strong claim should point to **code, tests, CI, a reproducible command, a versioned artifact, a measured benchmark, or an explicit limitation**. I do not treat a diagram as a deployed system, a microbenchmark as a production SLO, or a synthetic ML result as real-world model quality.
 
 > **Portfolio boundary:** these repositories are engineering/research artifacts with different maturity levels. A GitHub Release or container proves delivery discipline; it does not by itself prove production authorization, safety, profitability, model quality, or internet-scale reliability.
+
+## How to evaluate this portfolio
+
+Review one project end-to-end rather than treating repository count or CI badges as a quality score. Recommended paths:
+
+- **Backend/platform reliability:** [HelixAgent](https://github.com/CoreyLeath-code/HelixAgent) → [IntelliOps-AI](https://github.com/CoreyLeath-code/IntelliOps-AI).
+- **Observability:** [SentinelAI](https://github.com/CoreyLeath-code/SentinelAI) → [LogSight-AI](https://github.com/CoreyLeath-code/LogSight-AI).
+- **Network and protocol engineering:** [TrojanChat](https://github.com/CoreyLeath-code/TrojanChat).
+- **ML reproducibility:** [TransformerForge](https://github.com/CoreyLeath-code/TransformerForge) → [Energy Demand Forecasting](https://github.com/CoreyLeath-code/Energy-Demand-Forecasting-DevMLOps).
+
+For each repository, compare README claims against source files, tests, GitHub Actions history, and any versioned benchmark artifacts. A documented workflow is not proof that the latest run passed; check the current Actions tab. The dated evidence snapshot below is historical, not a live repository-health dashboard.
 
 ## 60-second proof
 
